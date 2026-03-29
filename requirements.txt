@@ -1,0 +1,6 @@
+pandas>=3.0.1
+duckdb>=1.5.1
+polars>=1.39.3
+marimo==0.21.1
+pyarrow==23.0.1
+
